@@ -1,0 +1,22 @@
+@import './style/var';
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  background-color: var(--color-primary--100);
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: var(--color-gray--500);
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: var(--color-gray--500);
+}
