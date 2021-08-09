@@ -6,7 +6,11 @@ This project is based on [this crash course](https://www.youtube.com/watch?v=Dor
 - SCSS
 - Typescript
 
-# Getting Started with Create React App
+## Database
+
+Create your `.env` file in root directory with REACT_APP_API_KEY constant with your firebase endpoint.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
