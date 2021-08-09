@@ -1,9 +1,10 @@
 # REACT JS MEETUPS
 
 This project is based on [this crash course](https://www.youtube.com/watch?v=Dorf8i6lCuk&ab_channel=Academind) with further implementations:
-[x] Local Storage
-[x] SCSS
-[x] Typescript
+
+- Local Storage hook
+- SCSS
+- Typescript
 
 # Getting Started with Create React App
 
